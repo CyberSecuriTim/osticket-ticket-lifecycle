@@ -56,8 +56,8 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
   - Repeat the steps outline above to create two more ticket as one of the created end users:
     - Help Topic: "Report a Problem"
     - Issue Summary: Accounting department needs adopbe upgrade.
-      - NOTE: The issue description is intentionally ambiguous as in the real world, the end user will not always be able to provide the help desk agent with ample information      
-        initially and more investigation will be required. 
+      - NOTE: The issue description is intentionally ambiguous as in the real world, the end user will not always be able to provide the help desk agent with ample
+        information initially and more investigation will be required. 
 
 ![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
 
