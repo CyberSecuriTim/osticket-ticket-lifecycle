@@ -88,9 +88,12 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 </h2>
 
 <p>
-
-  - Gotta be quicker than that! You may notice that our first created ticket has been flagged as overdue by the system . The SLA configured for the Help Topic that was 
-    assigned to this ticket only allows a one hour grace period on a 24/7 schedule in which this ticket must be resolved.
+ 
+ <h3> Gotta be quicker than that! </h3> 
+ 
+  - You may notice that our first created ticket has been flagged as overdue by the system.
+  - The SLA configured for the Help Topic that was 
+    assigned to this ticket only allows a one hour grace period on a 24/7 schedule within which this ticket must be resolved.
       - In the real world as IT professionals we will not always be able to satisfy the SLA criteria but it is just as, if not more important to be transparent, honest 
         and communicate effectively to our end users as we work to resolve their tickets.
         ![image](https://github.com/user-attachments/assets/995f4123-eab3-4b86-ac8c-a09ffb3556fc)
