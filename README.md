@@ -62,9 +62,9 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
      - Help Topic: "Report a Problem / Personal Computer Issues"
      - Issue Summary: "The CFO states he is unable to use his laptop"
     ![image](https://github.com/user-attachments/assets/0b775085-680a-4e7f-a402-a1013e32beae)
-
-
-
-  
 </p>
+
+<h2>
+ STAGE 2: Intaking the Tickets
+</h2>
 
