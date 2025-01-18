@@ -100,7 +100,15 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
  <h3> Now let's get these tickets resolved! </h3>
 
- - 
+<h4> Ticket 1: Entire mobile/banking system is down</h4>
+
+ - Start by Assigning this ticket to the "Online Banking" team, which was created during the [previous lab](https://github.com/CyberSecuriTim/osticket-post-install-config)
+   - Click "Assigned to"
+     - Assignee: "Online Banking"
+     - Optionally, you can also provide a reason for this assignment.
+   ![image](https://github.com/user-attachments/assets/c6bc0e4a-022e-4cf2-a9ad-729ae3025887)
+
+ 
  
 </p>
  
