@@ -139,5 +139,9 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 ![image](https://github.com/user-attachments/assets/14d0cb7b-03d9-4ef7-9297-3a42917ac4bc)
 
+
+- Time to resolve our third and final ticket for the day!
+
+  <h4> Ticket 3: The CFO states he is unable to use his laptop. </h4>
 </p>
  
