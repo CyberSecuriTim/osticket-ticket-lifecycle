@@ -152,5 +152,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
  
   ![image](https://github.com/user-attachments/assets/d9302972-93b5-45d4-aa39-0ed0b48c1ee0)
 
+![image](https://github.com/user-attachments/assets/1533451c-8d04-4aa9-ad04-ebd474845520)
+
 </p>
  
