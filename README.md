@@ -109,6 +109,15 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
    ![image](https://github.com/user-attachments/assets/c6bc0e4a-022e-4cf2-a9ad-729ae3025887)
 
  
- 
+ - Ensure to maintain regular communication to your end user(s) as you work the ticket.
+![image](https://github.com/user-attachments/assets/595330b9-b989-4fe7-91b7-4f5d7fc2746e)
+
+ - Let your end user(s) know that the ticket has been resolved.
+   ![image](https://github.com/user-attachments/assets/6c990300-0c11-4308-98d0-3af86882d320)
+
+
+  - Change the status of our ticket to "Resolved"...man that feeling never gets old 😁
+
+
 </p>
  
