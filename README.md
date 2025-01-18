@@ -5,7 +5,14 @@
 <h1>osTicket - Ticket Lifecycle: Creating ---> Ingesting---> Resolving</h1>
 This tutorial outlines the lifecycle of a ticket from creation to ingestion to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
+<p>
+ 
+  - NOTE: This project requires a working installation of the osTicket ticketing software and it is strongly recommended to perform the appropriate post-installation configurations.
+    - For a step-by-step guide on how to perform both of these please take a look at two of my other github repositories linked below:
+      - [osTicket Installatin](https://github.com/CyberSecuriTim/osticket-install)
+      - [osTicket Post-installation Configuration](https://github.com/CyberSecuriTim/osticket-post-install-config)
+  
+</p>
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
