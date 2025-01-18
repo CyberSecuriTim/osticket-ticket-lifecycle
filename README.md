@@ -37,14 +37,15 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
 
  - Access the osTicket end user portal within your Azure Windows 10 VM using this link (http://localhost/osTicket).
    - Select "Open a New Ticket"
+
+![image](https://github.com/user-attachments/assets/a443bbe0-3b33-4ecf-bebc-acf6884ac87c)
+  
    - Fill out the contact information for the user that is creating the ticket.
      - I used one of the users that was created during the previous lab [osTicket Post-Installation Configuration](https://github.com/CyberSecuriTim/osticket-post-install-config)
-    
-   - 
+   - Select "Create Ticket"
 
 
    ![image](https://github.com/user-attachments/assets/a715d51e-20d4-4b14-85d8-03b9cdcc0bd0)
 
 </p>
 
-![image](https://github.com/user-attachments/assets/a443bbe0-3b33-4ecf-bebc-acf6884ac87c)
