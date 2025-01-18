@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Creating ---> Ingesting---> Resolving</h1>
-This tutorial outlines the lifecycle of a ticket from creation to ingestion to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines and simulates the lifecycle of a ticket from creation to ingestion to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <p>
  
