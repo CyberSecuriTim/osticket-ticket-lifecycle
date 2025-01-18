@@ -97,7 +97,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
       - In the real world as IT professionals we will not always be able to satisfy the SLA criteria but it is just as, if not more important to be transparent, honest 
         and communicate effectively to our end users as we work to resolve their tickets.
         ![image](https://github.com/user-attachments/assets/995f4123-eab3-4b86-ac8c-a09ffb3556fc)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  <h3> Now let's get these tickets resolved! </h3>
 
 <h4> Ticket 1: Entire mobile/banking system is down</h4>
@@ -120,6 +120,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
     - Another ticket bites the dust...man that feeling never gets old 😁
 ![image](https://github.com/user-attachments/assets/ee38ba09-f959-48d4-8aa1-01f85ef26c7d)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   - (From the Agent Panel) Return to the "Tickets" tab and under the "Open" tab we should see our two remaining unresolved tickets.
 ![image](https://github.com/user-attachments/assets/224bb27c-67b2-4dca-9b54-84feaed2ba58)
 
@@ -139,9 +140,11 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 ![image](https://github.com/user-attachments/assets/14d0cb7b-03d9-4ef7-9297-3a42917ac4bc)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Time to resolve our third and final ticket for the day!
 
   <h4> Ticket 3: The CFO states he is unable to use his laptop. </h4>
+
+  - 
 </p>
  
