@@ -131,8 +131,8 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 ![image](https://github.com/user-attachments/assets/3d4f3f36-4176-45e9-b514-bf99c3d08198)
 
 - Update the SLA plan from "Default SLA" to "Sev-C"
-  - Optionally, you can also provide a reasoning for this re-assigment of the SLA.
- 
-  
+  - Optionally, you can also provide reason for this re-assigment of the SLA.
+ ![image](https://github.com/user-attachments/assets/64a6e1af-1ef5-4d51-80d2-a89f2e330550)
+
 </p>
  
