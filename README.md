@@ -53,13 +53,15 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
    ![image](https://github.com/user-attachments/assets/a715d51e-20d4-4b14-85d8-03b9cdcc0bd0)
 
 
-  - Repeat the steps outline above to create two more ticket as one of the created end users:
+  - Repeat the steps outlined above to create two more ticket as one of the created end users:
     - Help Topic: "Report a Problem"
     - Issue Summary: Accounting department needs adopbe upgrade.
       - NOTE: The issue description is intentionally ambiguous as in the real world, the end user will not always be able to provide the help desk agent with ample
         information initially and more investigation will be required. 
-
-![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
+   ![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
+     - Help Topic: "Report a Problem / Personal Computer Issues"
+     - Issue Summary: "The CFO states he is unable to use his laptop"
+    ![image](https://github.com/user-attachments/assets/d758ccdc-dc02-46a2-8926-e47a3adb0d63)
 
   
 </p>
