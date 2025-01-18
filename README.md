@@ -68,3 +68,27 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
  STAGE 2: Intaking the Tickets
 </h2>
 
+<p>
+ 
+ - Access the help desk agent login page using this link (http://localhost/osTicket/scp/login.php) within the Windows 10 VM hosted in Azure.
+ - Login as one of your created  help desk agents (specifically one of them with access to the "System Adminstrators" Department so that you can view all 
+  three of the tickets that we have created so far)
+   - The "Business Critical Outage" Help Topic that was assigned to the "mobile/online banking portal outage" ticket was configured to automatically be 
+     escalated to the Systems Administrator Department.
+
+  - Then navigate to the Agent panel (if not brought there autmotically by the link)
+    - From the Agent panel, select the "Tickets" tab.
+    - Under the "Open" tab you should see all the unresolved tickets that have been created and automatically ingested into the ticketing system. 
+
+ ![image](https://github.com/user-attachments/assets/b4e891d4-bd8c-44e5-b423-53af2a1ffa93)
+</p>
+
+<h2>
+ MULTI-STAGE (STAGE 3 + 4): Working the Tickets through Assignment and Communication 
+</h2>
+
+<p>
+
+ - 
+</p>
+ 
