@@ -61,7 +61,8 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
    ![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
      - Help Topic: "Report a Problem / Personal Computer Issues"
      - Issue Summary: "The CFO states he is unable to use his laptop"
-    ![image](https://github.com/user-attachments/assets/d758ccdc-dc02-46a2-8926-e47a3adb0d63)
+    ![image](https://github.com/user-attachments/assets/161914d7-eab2-4fe6-99cd-973368ddf8c8)
+
 
   
 </p>
