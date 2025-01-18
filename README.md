@@ -148,7 +148,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
   - This step is completely optional but for the sake of diversity I will sign into another agent's account to resolve the final ticket.
     - I chose Mr. Robot...(if you know, you know) 😏
    
-  - Assign this ticket to whichever agent you are signed in as and work this ticket to completion.
+  - Assign this ticket to whichever agent you are signed in as and work it to completion.
  
   ![image](https://github.com/user-attachments/assets/d9302972-93b5-45d4-aa39-0ed0b48c1ee0)
 
