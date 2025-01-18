@@ -97,7 +97,10 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
       - In the real world as IT professionals we will not always be able to satisfy the SLA criteria but it is just as, if not more important to be transparent, honest 
         and communicate effectively to our end users as we work to resolve their tickets.
         ![image](https://github.com/user-attachments/assets/995f4123-eab3-4b86-ac8c-a09ffb3556fc)
- 
+
+ <h3> Now let's get these tickets resolved! </h3>
+
+ - 
  
 </p>
  
