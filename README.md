@@ -42,10 +42,25 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
   
    - Fill out the contact information for the user that is creating the ticket.
      - I used one of the users that was created during the previous lab [osTicket Post-Installation Configuration](https://github.com/CyberSecuriTim/osticket-post-install-config)
-   - Select "Create Ticket"
+    
+   - Select "Business Critical Outage" from the drop down menu of Help Topics.
+   - Provide a brief statement that summarizes the current issue within the "Issue Summary" field
+   - Lastly, feel free elaborate on the nature of the issue and exactly what seems to be wrong in the description box below the "Issue Summary" field. The more information that you 
+     can provide to the Help Desk Agents the more accurately they can diagonse and resolve the issue for the user. 
+   - Select "Create Ticket".
 
 
    ![image](https://github.com/user-attachments/assets/a715d51e-20d4-4b14-85d8-03b9cdcc0bd0)
 
+
+  - Repeat the steps outline above to create two more ticket as one of the created end users:
+    - Help Topic: "Report a Problem"
+    - Issue Summary: Accounting department needs adopbe upgrade.
+      - NOTE: The issue description is intentionally ambiguous as in the real world, the end user will not always be able to provide the help desk agent with ample information      
+        initially and more investigation will be required. 
+
+![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
+
+  
 </p>
 
