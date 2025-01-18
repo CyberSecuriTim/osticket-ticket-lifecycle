@@ -145,6 +145,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
   <h4> Ticket 3: The CFO states he is unable to use his laptop. </h4>
 
-  - 
+  - This step is completely optional but for the sake of diversity I will sign into another agent's account to resolve this ticket
+    - I chose Mr. Robot...(if you know, you know) 😏
 </p>
  
