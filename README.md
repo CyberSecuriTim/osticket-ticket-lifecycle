@@ -117,7 +117,8 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 
   - Change the status of our ticket to "Resolved"...man that feeling never gets old 😁
-![image](https://github.com/user-attachments/assets/70b2fc10-e412-47f1-9015-9415a5b7e27d)
+![image](https://github.com/user-attachments/assets/ee38ba09-f959-48d4-8aa1-01f85ef26c7d)
+
 
 
 
