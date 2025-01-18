@@ -127,7 +127,9 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 <h4> Ticket 2: Accounting department needs adobe upgrade. </h4>
 
-- 
+- Start by changing the Department overseeing this ticket from "Maintenance" to "Support"
+![image](https://github.com/user-attachments/assets/3d4f3f36-4176-45e9-b514-bf99c3d08198)
+
 
 </p>
  
