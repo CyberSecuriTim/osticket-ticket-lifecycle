@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
  
   - NOTE: This project requires a working installation of the osTicket ticketing software and it is strongly recommended to perform the appropriate post-installation configurations.
     - For a step-by-step guide on how to perform both of these please take a look at two of my other github repositories linked below:
-      - [osTicket Installation](https://github.com/CyberSecuriTim/osticket-install)
+      - [osTicket Installation](https://github.com/CyberSecuriTim/osticket-installation)
       - [osTicket Post-installation Configuration](https://github.com/CyberSecuriTim/osticket-post-install-config)
   
 </p>
