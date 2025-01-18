@@ -120,8 +120,14 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
     - Another ticket bites the dust...man that feeling never gets old 😁
 ![image](https://github.com/user-attachments/assets/ee38ba09-f959-48d4-8aa1-01f85ef26c7d)
 
+  - (From the Agent Panel) Return to the "Tickets" tab and under the "Open" tab we should see our two remaining unresolved tickets.
+![image](https://github.com/user-attachments/assets/224bb27c-67b2-4dca-9b54-84feaed2ba58)
 
 
+
+<h4> Ticket 2: Accounting department needs adobe upgrade. </h4>
+
+- 
 
 </p>
  
