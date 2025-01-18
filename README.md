@@ -134,7 +134,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
   - Optionally, you can also provide reason for this re-assigment of the SLA.
  ![image](https://github.com/user-attachments/assets/64a6e1af-1ef5-4d51-80d2-a89f2e330550)
 
-- Repeat the ticket resolution best practices mentioned above about consistent and transparent communication with your end users and work this ticket to completion.
+- Repeat the ticket resolution best practices mentioned above regarding consistent and transparent communication with your end users and work this ticket to completion.
   - FYI: Cx means "customer"
 
 ![image](https://github.com/user-attachments/assets/14d0cb7b-03d9-4ef7-9297-3a42917ac4bc)
