@@ -16,14 +16,15 @@ This tutorial outlines the lifecycle of a ticket from creation to ingestion to r
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Stages Overview</h2>
 
+- Creating
 - Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>STAGE 1: Creating the Tickets</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
