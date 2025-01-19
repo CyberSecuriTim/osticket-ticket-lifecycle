@@ -175,19 +175,8 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 </h2>
 
 <p>
-<h3>
 
-  PS: As a final parting gift for sticking with me throughout this project, I will leave you with two pieces of helpful information:
-</h3>
-
-  
-  - Tip 1: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate your VM within the Azure portal.
-     - Within the [Azure portal](https://azure.portal.com) select or search for "Virtual Machines"
-     - Then select the VM that you created for the osTicket lab and select "Stop" and confirm your selection.
-    
-     ![image](https://github.com/user-attachments/assets/f69f2e4f-4954-4976-a285-71bef8b78b86)
-
-   - Tip 2: If you are completely finished with the project and would like to stop being charged completely for hosting your computing resources 
+   - If you are completely finished with the project and would like to stop being charged completely for hosting your computing resources 
      in Azure, as you may suspect, you can simply delete all your created resources.
        - The most comprehensive and efficient way to do this would be to delete the resource group(s) and all the contents within, which are 
          essentially folders for your Azure resources, and would contain all the resources you have created.
