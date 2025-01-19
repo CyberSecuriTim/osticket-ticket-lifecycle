@@ -31,6 +31,17 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 - Working the Ticket
 - Resolution
 
+<h2>
+ 
+ STAGE 0: Access the Windows 10 VM hosted in Azure that was created in the [previous lab](https://github.com/CyberSecuriTim/osticket-post-install-config) with a working installation and the requisite osTicket post-installation configurations
+
+ </h2>
+
+- Establish a remote desktop connection to the Windows 10 VM via its public IP address and using your preferred Remote Desktop Connection.
+  - I used the Windows Remote Desktop Connection App during this lab. 
+![image](https://github.com/user-attachments/assets/2f7a098b-7b60-468b-9c54-e9b5cf0180ef)
+
+
 <h2>STAGE 1: Creating the Tickets</h2>
 
 <p>
@@ -155,4 +166,8 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 ![image](https://github.com/user-attachments/assets/1533451c-8d04-4aa9-ad04-ebd474845520)
 
 </p>
+
+<h2>
+ 
+</h2>
  
