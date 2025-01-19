@@ -169,17 +169,16 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 <h2>
 
- CLOSING REMARKS: Congratulations! You have completed Act 3 of the "osTicket Trilogy" and thus have made it to the end of the osTicket project. 
+ CLOSING REMARKS: Congratulations! You have completed Act 3 of the "osTicket Trilogy" 🎥 and thus have made it to the end of the osTicket project. 
  Feel free to keep creating, triaging and resolving tickets on your own time and continue practicing the overall processes of handling tickets 
- throughout their lifecycle.
+ throughout their lifecycle. Lastly, feel free to take a look at the other projects in my portfolio linked [here](https://github.com/CyberSecuriTim/).
 </h2>
 
 <p>
 
  PS: As a final parting gift for sticking with me throughout this project leave you with two pieces of helpful information:
   
-  - Tip1: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure 
-    you can stop/deallocate your VM within the Azure portal.
+  - Tip 1: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate your VM within the Azure portal.
      - Within the [Azure portal](https://azure.portal.com) select or search for "Virtual Machines"
      - Then select the VM that you created for the osTicket lab and select "Stop" and confirm your selection.
     
@@ -198,6 +197,10 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
      ![image](https://github.com/user-attachments/assets/5912908f-1e4c-4fd4-812d-c16aa9124fd9)
 
+
+     - While you wait for the first resource group to be deleted, follow the same steps above and also delete the Network Watcher resource group.
+
+     ![image](https://github.com/user-attachments/assets/8c2b0677-587f-44be-9b39-013dd4886c02)
 
      
 </p>
