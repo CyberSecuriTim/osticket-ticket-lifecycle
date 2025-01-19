@@ -189,7 +189,16 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
      in Azure, as you may suspect, you can simply delete all your created resources.
        - The most comprehensive and efficient way to do this would be to delete the resource group(s) and all the contents within, which are 
          essentially folders for your Azure resources, and would contain all the resources you have created.
-         
+       - Select or search for "Resource groups" then select the resource group that contains your osTicket lab resources.
+         - NOTE: A network watcher resource group was also created automatically during the initial stages of the lab so be sure to delete it as 
+           well
+        - Select the specific resource group then select "Delete resource group"
+        - Check "Apply force delete for selected Virtual machines and Virtual machine scale sets"
+        - Enter the resource group name to confirm the deletion.
+
+     ![image](https://github.com/user-attachments/assets/5912908f-1e4c-4fd4-812d-c16aa9124fd9)
+
+
      
 </p>
  
