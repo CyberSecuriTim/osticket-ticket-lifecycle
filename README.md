@@ -33,7 +33,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 <h2>
  
- STAGE 0: Access the Windows 10 VM hosted in Azure that was created in the [previous lab](https://github.com/CyberSecuriTim/osticket-post-install-config) with a working installation and the requisite osTicket post-installation configurations
+ STAGE 0: Access the Windows 10 VM hosted in Azure that was created in the [previous lab](https://github.com/CyberSecuriTim/osticket-post-install-config) which has a working installation and the requisite osTicket post-installation configurations
 
  </h2>
 
