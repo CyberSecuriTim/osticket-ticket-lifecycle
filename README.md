@@ -170,13 +170,16 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 <h2>
 
  CLOSING REMARKS: Congratulations! You have completed Act 3 of the "osTicket Trilogy" 🎥 and thus have made it to the end of the osTicket project. 
- Feel free to keep creating, triaging and resolving tickets on your own time and continue practicing the overall processes of handling tickets 
- throughout their lifecycle. Lastly, feel free to take a look at the other projects in my portfolio linked [here](https://github.com/CyberSecuriTim/).
+ You are more than welcome to keep creating, triaging and resolving tickets on your own time and continue practicing the overall processes of 
+ handling tickets throughout their lifecycle. Lastly, feel free to take a look at the other projects in my portfolio linked [here](https://github.com/CyberSecuriTim/).
 </h2>
 
 <p>
+<h3>
 
- PS: As a final parting gift for sticking with me throughout this project leave you with two pieces of helpful information:
+  PS: As a final parting gift for sticking with me throughout this project, I will leave you with two pieces of helpful information:
+</h3>
+
   
   - Tip 1: If you ever wanted to take a temporary break and save a bit of the money you must spend to have your computing resources hosted in Azure you can stop/deallocate your VM within the Azure portal.
      - Within the [Azure portal](https://azure.portal.com) select or search for "Virtual Machines"
