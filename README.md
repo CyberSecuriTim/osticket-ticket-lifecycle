@@ -71,10 +71,12 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
     - Issue Summary: Accounting department needs Adobe upgrade.
       - NOTE: The issue description is intentionally ambiguous as in the real world, the end user will not always be able to provide the help desk agent with ample
         information initially and more investigation will be required. 
+  
    ![image](https://github.com/user-attachments/assets/167e38f2-113a-424c-8cab-96ab3c0aa24a)
      - Help Topic: "Report a Problem / Personal Computer Issues"
      - Issue Summary: "The CFO states he is unable to use his laptop"
-    ![image](https://github.com/user-attachments/assets/0b775085-680a-4e7f-a402-a1013e32beae)
+
+  ![image](https://github.com/user-attachments/assets/0b775085-680a-4e7f-a402-a1013e32beae)
 </p>
 
 <h2>
@@ -109,7 +111,8 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
     assigned to this ticket only allows a one-hour grace period on a 24/7 schedule within which this ticket must be resolved.
       - In the real world as IT professionals we will not always be able to satisfy the SLA criteria but it is just as, if not more important to be transparent, honest 
         and communicate effectively to our end users as we work to resolve their tickets.
-        ![image](https://github.com/user-attachments/assets/995f4123-eab3-4b86-ac8c-a09ffb3556fc)
+
+    ![image](https://github.com/user-attachments/assets/995f4123-eab3-4b86-ac8c-a09ffb3556fc)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  <h3> Now let's get these tickets resolved! </h3>
 
@@ -119,22 +122,27 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
    - Click "Assigned to"
      - Assignee: "Online Banking"
      - Optionally, you can also provide a reason for this assignment.
+
    ![image](https://github.com/user-attachments/assets/c6bc0e4a-022e-4cf2-a9ad-729ae3025887)
 
  
  - Ensure to maintain regular communication with your end user(s) as you work the ticket.
+
 ![image](https://github.com/user-attachments/assets/595330b9-b989-4fe7-91b7-4f5d7fc2746e)
 
  - Let your end user(s) know that the ticket has been resolved.
-   ![image](https://github.com/user-attachments/assets/6c990300-0c11-4308-98d0-3af86882d320)
+
+![image](https://github.com/user-attachments/assets/6c990300-0c11-4308-98d0-3af86882d320)
 
 
   - Change the status of our ticket to "Resolved"
     - Another ticket bites the dust...man that feeling never gets old 😁
+
 ![image](https://github.com/user-attachments/assets/ee38ba09-f959-48d4-8aa1-01f85ef26c7d)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   - (From the Agent Panel) Return to the "Tickets" tab and under the "Open" tab we should see our two remaining unresolved tickets.
+
 ![image](https://github.com/user-attachments/assets/224bb27c-67b2-4dca-9b54-84feaed2ba58)
 
 
@@ -142,10 +150,12 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 <h4> Ticket 2: Accounting department needs Adobe upgrade. </h4>
 
 - Start by changing the Department overseeing this ticket from "Maintenance" to "Support"
+
 ![image](https://github.com/user-attachments/assets/3d4f3f36-4176-45e9-b514-bf99c3d08198)
 
 - Update the SLA plan from "Default SLA" to "Sev-C"
   - Optionally, you can also provide a reason for this re-assignment of the SLA.
+
  ![image](https://github.com/user-attachments/assets/64a6e1af-1ef5-4d51-80d2-a89f2e330550)
 
 - Repeat the ticket resolution best practices mentioned above regarding consistent and transparent communication with your end users and work this ticket to completion.
@@ -163,7 +173,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
    
   - Assign this ticket to whichever agent you are signed in as and work it to completion.
  
-  ![image](https://github.com/user-attachments/assets/d9302972-93b5-45d4-aa39-0ed0b48c1ee0)
+ ![image](https://github.com/user-attachments/assets/d9302972-93b5-45d4-aa39-0ed0b48c1ee0)
 
 ![image](https://github.com/user-attachments/assets/1533451c-8d04-4aa9-ad04-ebd474845520)
 
