@@ -193,7 +193,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
        - The most comprehensive and efficient way to do this would be to delete the resource group(s) and all the contents within, which are 
          essentially folders for your Azure resources, and would contain all the resources you have created.
 
-       - From the [Azure Portal's](https://portal.azure.com)]:
+       - From the [Azure Portal's](https://portal.azure.com) home page:
        - Select or search for "Resource groups" then select the resource group that contains your osTicket lab resources.
          - NOTE: A network watcher resource group was also created automatically during the initial stages of the lab so be sure to delete it as 
            well
