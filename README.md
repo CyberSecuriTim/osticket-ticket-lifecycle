@@ -40,6 +40,7 @@ This tutorial outlines and simulates the lifecycle of a ticket from creation to 
 
 - Establish a remote desktop connection to the Windows 10 VM via its public IP address and using your preferred Remote Desktop Connection client.
   - I used the Windows Remote Desktop Connection App during this lab. 
+
 ![image](https://github.com/user-attachments/assets/2f7a098b-7b60-468b-9c54-e9b5cf0180ef)
 
 
